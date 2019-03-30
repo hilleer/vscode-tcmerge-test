@@ -15,3 +15,6 @@ pølse
 hehe
 hehehe
 well
+
+
+NOW
