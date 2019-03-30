@@ -12,3 +12,5 @@ hehe
 
 
 pølse
+hehe
+hehehe
