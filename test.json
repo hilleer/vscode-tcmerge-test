@@ -1,4 +1,14 @@
 {
 	"foo": true,
-	"bar": false
+	"bar": false,
+	"shops": [
+		{
+			"foo": true
+		}
+	],
+	"lala": {
+		"lalala": {
+			"lalalala": true
+		}
+	}
 }
