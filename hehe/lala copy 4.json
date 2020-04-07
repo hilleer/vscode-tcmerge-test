@@ -1,4 +1,12 @@
 {
-  "foo": true,
-  "bar": false
+	"foo": true,
+	"bar": false,
+	"foo-array": [
+		1,
+		2,
+		3
+	],
+	"foo-object": {
+		"bar": true
+	}
 }
